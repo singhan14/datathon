@@ -1,0 +1,5 @@
+__pycache__/
+*.DS_Store
+transactions_datathon_ready.csv
+*.ipynb_checkpoints/
+.streamlit/

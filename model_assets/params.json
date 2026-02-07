@@ -1,0 +1,19 @@
+{
+    "factor": 72.13475204444818,
+    "offset": 383.9035952556319,
+    "cutoff_score": 580,
+    "selected_features": [
+        "loan_grade",
+        "loan_int_rate",
+        "loan_percent_income",
+        "person_home_ownership",
+        "person_income",
+        "cb_person_default_on_file",
+        "std_amount",
+        "max_amount",
+        "avg_amount",
+        "total_amount",
+        "loan_amnt",
+        "person_emp_length"
+    ]
+}
