@@ -99,7 +99,7 @@ def calculate_score(pd_prob):
     return score
 
 # 4. App Layout
-st.title("💳 AI Credit Risk Evaluator")
+st.title("💳 Credit Risk Evaluator")
 st.markdown("---")
 
 col1, col2 = st.columns([1, 2])
